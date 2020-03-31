@@ -1,0 +1,6 @@
+[submodule "android/app/src/main/cpp/libs"]
+	path = android/app/src/main/cpp/libs
+	url = https://github.com/trojan-gfw/igniter-libs.git
+[submodule "android/app/src/main/cpp/trojan"]
+	path = android/app/src/main/cpp/trojan
+	url = https://github.com/trojan-gfw/trojan.git
